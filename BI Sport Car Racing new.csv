@@ -1,512 +1,200 @@
-Make and Model,Engine Type,Horsepower,Drivetrain,Tire Type,Event Name,Track Length,Number of Corners,Lap Record for Sports Cars,Fastest Lap Time,Consistency Score,Overtakes Made,Incidents,Team Name,Manufacturer Championships Won,R&D Budget
-Koenigsegg Jesko,Turbocharged,637,AWD,Racing Slicks,Race1,3.9417581,9,1:30,1:32,0.095492117,6,Collision,Team1,4,1386700
-Toyota Supra GR,Naturally Aspirated,344,RWD,All-Weather,Race2,3.244512424,12,1:45,1:50,0.057021747,5,Time Penalty,Team2,4,1275678
-Alfa Romeo 4C Spider,Turbocharged,797,AWD,Racing Slicks,Race1,3.466534387,9,1:30,1:32,0.123405273,2,Collision,Team1,2,2751340
-Dodge Viper ACR,Naturally Aspirated,472,RWD,All-Weather,Race2,4.904885677,14,1:45,1:50,0.14255932,5,Time Penalty,Team2,3,1257594
-Ford Mustang Shelby GT500,Naturally Aspirated,383,RWD,All-Weather,Race2,4.47309185,9,1:45,1:50,0.082157475,4,Time Penalty,Team2,2,1820153
-Maserati MC20,Turbocharged,629,AWD,Racing Slicks,Race1,3.730150689,13,1:30,1:32,0.098851199,5,Collision,Team1,3,2960555
-Toyota Supra GR,Naturally Aspirated,392,RWD,All-Weather,Race2,4.155759804,13,1:45,1:50,0.081471707,2,Time Penalty,Team2,4,1490394
-Ford Mustang Shelby GT500,Turbocharged,582,AWD,Racing Slicks,Race1,2.986948057,9,1:30,1:32,0.138787449,4,Collision,Team1,3,1555507
-Bugatti Chiron Pur Sport,Naturally Aspirated,394,RWD,All-Weather,Race2,3.568213786,13,1:45,1:50,0.118908985,2,Time Penalty,Team2,3,1396789
-Mercedes-AMG GT R,Naturally Aspirated,391,RWD,All-Weather,Race2,3.568944172,14,1:45,1:50,0.070237839,3,Time Penalty,Team2,2,1175294
-Bugatti Chiron Pur Sport,Naturally Aspirated,510,RWD,All-Weather,Race2,2.765805484,9,1:45,1:50,0.170771663,3,Time Penalty,Team2,4,1438395
-BMW M4 CSL,Turbocharged,603,AWD,Racing Slicks,Race1,3.780779023,12,1:30,1:32,0.06969729,5,Collision,Team1,3,1869839
-Ford Mustang Shelby GT500,Naturally Aspirated,533,RWD,All-Weather,Race2,3.725445084,11,1:45,1:50,0.173615136,6,Time Penalty,Team2,3,2747571
-Lotus Emira,Naturally Aspirated,454,RWD,All-Weather,Race2,2.926554598,13,1:45,1:50,0.066344478,3,Time Penalty,Team2,1,2615071
-Dodge Viper ACR,Naturally Aspirated,381,RWD,All-Weather,Race2,5.399910803,10,1:45,1:50,0.066320892,3,Time Penalty,Team2,3,1093661
-McLaren 720S,Turbocharged,726,AWD,Racing Slicks,Race1,4.529432835,8,1:30,1:32,0.161145668,5,Collision,Team1,3,2348593
-Porsche 911 GT3,Naturally Aspirated,470,RWD,All-Weather,Race2,5.167880353,14,1:45,1:50,0.151201843,5,Time Penalty,Team2,1,2637217
-Dodge Viper ACR,Naturally Aspirated,399,RWD,All-Weather,Race2,4.584846174,8,1:45,1:50,0.165182407,2,Time Penalty,Team2,1,1088564
-Aston Martin Vantage,Naturally Aspirated,413,RWD,All-Weather,Race2,3.792617437,9,1:45,1:50,0.057005153,5,Time Penalty,Team2,1,2206089
-Koenigsegg Jesko,Naturally Aspirated,458,RWD,All-Weather,Race2,3.561519397,10,1:45,1:50,0.155191868,3,Time Penalty,Team2,1,2289103
-Dodge Viper ACR,Naturally Aspirated,361,RWD,All-Weather,Race2,3.614899185,12,1:45,1:50,0.112345092,5,Time Penalty,Team2,2,1892271
-Koenigsegg Jesko,Turbocharged,675,AWD,Racing Slicks,Race1,4.789891756,14,1:30,1:32,0.157705601,2,Collision,Team1,3,2464294
-Audi R8 V10 Performance,Turbocharged,591,AWD,Racing Slicks,Race1,5.407872092,9,1:30,1:32,0.102918574,5,Collision,Team1,3,2972067
-Aston Martin Vantage,Turbocharged,632,AWD,Racing Slicks,Race1,5.19250568,12,1:30,1:32,0.107888328,2,Collision,Team1,1,1734737
-Ferrari 488 Pista,Turbocharged,791,AWD,Racing Slicks,Race1,4.616169978,12,1:30,1:32,0.108014978,3,Collision,Team1,2,2052078
-BMW M4 CSL,Naturally Aspirated,322,RWD,All-Weather,Race2,3.986517082,10,1:45,1:50,0.186473715,4,Time Penalty,Team2,1,2244544
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,352,RWD,All-Weather,Race2,4.289221951,13,1:45,1:50,0.058884095,2,Time Penalty,Team2,3,1630991
-Ferrari 488 Pista,Naturally Aspirated,329,RWD,All-Weather,Race2,3.178191749,10,1:45,1:50,0.096315274,5,Time Penalty,Team2,4,2892513
-Lamborghini HuracÃ¡n Evo,Turbocharged,790,AWD,Racing Slicks,Race1,5.360146241,14,1:30,1:32,0.073020369,3,Collision,Team1,3,2086519
-Koenigsegg Jesko,Naturally Aspirated,567,RWD,All-Weather,Race2,3.890012072,8,1:45,1:50,0.096182563,6,Time Penalty,Team2,1,2677641
-Pagani Huayra,Naturally Aspirated,471,RWD,All-Weather,Race2,2.976437412,12,1:45,1:50,0.176515309,6,Time Penalty,Team2,2,2196433
-Koenigsegg Jesko,Naturally Aspirated,304,RWD,All-Weather,Race2,2.58736396,10,1:45,1:50,0.162163741,3,Time Penalty,Team2,2,2953379
-Dodge Viper ACR,Turbocharged,608,AWD,Racing Slicks,Race1,3.200242756,12,1:30,1:32,0.135544943,5,Collision,Team1,1,1890150
-Ferrari 488 Pista,Naturally Aspirated,300,RWD,All-Weather,Race2,2.93222009,10,1:45,1:50,0.180443191,3,Time Penalty,Team2,3,1999922
-Lotus Emira,Turbocharged,749,AWD,Racing Slicks,Race1,4.481159927,9,1:30,1:32,0.069314847,6,Collision,Team1,1,2887613
-Mercedes-AMG GT R,Naturally Aspirated,476,RWD,All-Weather,Race2,2.907882553,9,1:45,1:50,0.071831127,4,Time Penalty,Team2,1,1900126
-Chevrolet Corvette Z06,Naturally Aspirated,325,RWD,All-Weather,Race2,5.200740536,14,1:45,1:50,0.090490929,5,Time Penalty,Team2,1,2134178
-Jaguar F-Type R,Turbocharged,605,AWD,Racing Slicks,Race1,3.69234652,13,1:30,1:32,0.07209338,3,Collision,Team1,4,2869292
-Audi R8 V10 Performance,Naturally Aspirated,371,RWD,All-Weather,Race2,4.336481702,10,1:45,1:50,0.071709905,5,Time Penalty,Team2,2,1043340
-Porsche 911 GT3,Turbocharged,647,AWD,Racing Slicks,Race1,3.752729898,9,1:30,1:32,0.11648372,2,Collision,Team1,3,2042835
-Mercedes-AMG GT R,Naturally Aspirated,388,RWD,All-Weather,Race2,5.169635766,9,1:45,1:50,0.089595059,2,Time Penalty,Team2,3,1658922
-Jaguar F-Type R,Naturally Aspirated,496,RWD,All-Weather,Race2,5.302025447,14,1:45,1:50,0.072789566,2,Time Penalty,Team2,2,2111496
-Koenigsegg Jesko,Turbocharged,523,AWD,Racing Slicks,Race1,4.404878988,10,1:30,1:32,0.054181944,4,Collision,Team1,2,1249942
-Nissan GT-R Nismo,Naturally Aspirated,456,RWD,All-Weather,Race2,4.132399356,14,1:45,1:50,0.087460547,2,Time Penalty,Team2,3,2955171
-Audi R8 V10 Performance,Turbocharged,512,AWD,Racing Slicks,Race1,4.380086459,10,1:30,1:32,0.093875382,5,Collision,Team1,3,2119046
-Aston Martin Vantage,Naturally Aspirated,393,RWD,All-Weather,Race2,5.080220139,12,1:45,1:50,0.070086522,4,Time Penalty,Team2,1,1651578
-Dodge Viper ACR,Turbocharged,777,AWD,Racing Slicks,Race1,4.669246806,12,1:30,1:32,0.141009208,6,Collision,Team1,4,1994585
-Dodge Viper ACR,Turbocharged,571,AWD,Racing Slicks,Race1,4.567315484,10,1:30,1:32,0.182498926,4,Collision,Team1,3,2379371
-Audi R8 V10 Performance,Naturally Aspirated,338,RWD,All-Weather,Race2,4.574052069,8,1:45,1:50,0.143542016,6,Time Penalty,Team2,1,1873407
-Jaguar F-Type R,Naturally Aspirated,362,RWD,All-Weather,Race2,3.208471464,13,1:45,1:50,0.112081106,6,Time Penalty,Team2,3,1326645
-Dodge Viper ACR,Turbocharged,649,AWD,Racing Slicks,Race1,4.341689591,13,1:30,1:32,0.05491706,3,Collision,Team1,4,2009998
-Aston Martin Vantage,Turbocharged,678,AWD,Racing Slicks,Race1,4.848952665,9,1:30,1:32,0.156717631,6,Collision,Team1,3,1924084
-Aston Martin Vantage,Turbocharged,605,AWD,Racing Slicks,Race1,4.758126233,9,1:30,1:32,0.11709483,2,Collision,Team1,2,2123987
-Jaguar F-Type R,Turbocharged,577,AWD,Racing Slicks,Race1,5.458484429,8,1:30,1:32,0.132061541,3,Collision,Team1,3,1486208
-Ford Mustang Shelby GT500,Turbocharged,610,AWD,Racing Slicks,Race1,4.011479931,12,1:30,1:32,0.192109983,3,Collision,Team1,3,1605122
-Ford Mustang Shelby GT500,Naturally Aspirated,508,RWD,All-Weather,Race2,4.468927814,9,1:45,1:50,0.110043592,2,Time Penalty,Team2,4,1937040
-Lamborghini HuracÃ¡n Evo,Turbocharged,710,AWD,Racing Slicks,Race1,3.947092957,12,1:30,1:32,0.069852861,6,Collision,Team1,1,2524987
-Porsche 911 GT3,Turbocharged,743,AWD,Racing Slicks,Race1,5.12460342,12,1:30,1:32,0.165913368,3,Collision,Team1,3,2748894
-Bugatti Chiron Pur Sport,Turbocharged,577,AWD,Racing Slicks,Race1,3.877102983,9,1:30,1:32,0.112845505,5,Collision,Team1,4,1832923
-Aston Martin Vantage,Turbocharged,607,AWD,Racing Slicks,Race1,2.740392971,13,1:30,1:32,0.11243146,2,Collision,Team1,3,1440286
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,575,RWD,All-Weather,Race2,3.827326678,11,1:45,1:50,0.19704367,3,Time Penalty,Team2,4,2929030
-Porsche 911 GT3,Naturally Aspirated,502,RWD,All-Weather,Race2,2.972469827,9,1:45,1:50,0.158101726,2,Time Penalty,Team2,1,2653348
-Dodge Viper ACR,Naturally Aspirated,550,RWD,All-Weather,Race2,5.373557832,9,1:45,1:50,0.093177257,6,Time Penalty,Team2,3,1465404
-Koenigsegg Jesko,Turbocharged,634,AWD,Racing Slicks,Race1,2.886713301,9,1:30,1:32,0.197940597,6,Collision,Team1,3,1428924
-Bugatti Chiron Pur Sport,Turbocharged,531,AWD,Racing Slicks,Race1,5.152621589,10,1:30,1:32,0.106087971,2,Collision,Team1,3,1070657
-Mercedes-AMG GT R,Naturally Aspirated,525,RWD,All-Weather,Race2,5.307325898,13,1:45,1:50,0.16918324,6,Time Penalty,Team2,3,1093607
-Koenigsegg Jesko,Naturally Aspirated,469,RWD,All-Weather,Race2,2.883078614,12,1:45,1:50,0.134807988,5,Time Penalty,Team2,2,1422780
-BMW M4 CSL,Turbocharged,667,AWD,Racing Slicks,Race1,3.549028727,12,1:30,1:32,0.183082954,4,Collision,Team1,1,2139509
-Koenigsegg Jesko,Naturally Aspirated,556,RWD,All-Weather,Race2,3.47978987,13,1:45,1:50,0.158142073,2,Time Penalty,Team2,4,2986127
-McLaren 720S,Naturally Aspirated,537,RWD,All-Weather,Race2,3.256673022,8,1:45,1:50,0.070461466,2,Time Penalty,Team2,1,1969947
-Ford Mustang Shelby GT500,Naturally Aspirated,540,RWD,All-Weather,Race2,3.776279619,11,1:45,1:50,0.061051622,3,Time Penalty,Team2,3,2735895
-McLaren 720S,Turbocharged,733,AWD,Racing Slicks,Race1,3.754955546,10,1:30,1:32,0.14533404,5,Collision,Team1,2,1890654
-Chevrolet Corvette Z06,Turbocharged,673,AWD,Racing Slicks,Race1,2.770183638,12,1:30,1:32,0.186354729,4,Collision,Team1,2,1732291
-Chevrolet Corvette Z06,Naturally Aspirated,363,RWD,All-Weather,Race2,4.692206475,13,1:45,1:50,0.066613651,5,Time Penalty,Team2,4,1852805
-Ford Mustang Shelby GT500,Naturally Aspirated,345,RWD,All-Weather,Race2,3.852917981,11,1:45,1:50,0.119174056,2,Time Penalty,Team2,3,1873600
-Nissan GT-R Nismo,Naturally Aspirated,572,RWD,All-Weather,Race2,5.022759578,11,1:45,1:50,0.075561749,5,Time Penalty,Team2,2,1337140
-Nissan GT-R Nismo,Turbocharged,545,AWD,Racing Slicks,Race1,3.18447183,14,1:30,1:32,0.150474399,5,Collision,Team1,4,2759762
-Porsche 911 GT3,Naturally Aspirated,532,RWD,All-Weather,Race2,4.235523687,13,1:45,1:50,0.138505776,6,Time Penalty,Team2,1,2638768
-Maserati MC20,Turbocharged,698,AWD,Racing Slicks,Race1,5.265272328,9,1:30,1:32,0.092312608,5,Collision,Team1,1,2246492
-Mercedes-AMG GT R,Naturally Aspirated,341,RWD,All-Weather,Race2,5.261727307,10,1:45,1:50,0.159958748,4,Time Penalty,Team2,4,2953149
-McLaren 720S,Turbocharged,699,AWD,Racing Slicks,Race1,3.28651209,8,1:30,1:32,0.105020958,4,Collision,Team1,4,2860271
-McLaren 720S,Turbocharged,754,AWD,Racing Slicks,Race1,4.090159669,14,1:30,1:32,0.144996406,5,Collision,Team1,4,1616884
-Lotus Emira,Naturally Aspirated,453,RWD,All-Weather,Race2,2.822622909,13,1:45,1:50,0.091202938,5,Time Penalty,Team2,1,2442847
-Mercedes-AMG GT R,Naturally Aspirated,498,RWD,All-Weather,Race2,2.919828913,8,1:45,1:50,0.085043674,4,Time Penalty,Team2,2,2143164
-Alfa Romeo 4C Spider,Naturally Aspirated,354,RWD,All-Weather,Race2,4.254863143,12,1:45,1:50,0.096966976,3,Time Penalty,Team2,4,1012059
-Lotus Emira,Naturally Aspirated,591,RWD,All-Weather,Race2,4.570447044,13,1:45,1:50,0.117080187,4,Time Penalty,Team2,1,2642393
-BMW M4 CSL,Turbocharged,730,AWD,Racing Slicks,Race1,4.847108876,10,1:30,1:32,0.110869185,4,Collision,Team1,4,2545454
-Bugatti Chiron Pur Sport,Naturally Aspirated,565,RWD,All-Weather,Race2,3.699690238,10,1:45,1:50,0.086774008,6,Time Penalty,Team2,2,1434720
-Aston Martin Vantage,Turbocharged,766,AWD,Racing Slicks,Race1,4.416225695,8,1:30,1:32,0.190990918,5,Collision,Team1,2,2868071
-Koenigsegg Jesko,Naturally Aspirated,391,RWD,All-Weather,Race2,3.414252664,8,1:45,1:50,0.074984323,4,Time Penalty,Team2,2,2199333
-Bugatti Chiron Pur Sport,Turbocharged,579,AWD,Racing Slicks,Race1,4.055205898,9,1:30,1:32,0.117324759,2,Collision,Team1,4,2871272
-Porsche 911 GT3,Turbocharged,771,AWD,Racing Slicks,Race1,4.089606292,11,1:30,1:32,0.109030781,3,Collision,Team1,3,2553998
-Nissan GT-R Nismo,Naturally Aspirated,509,RWD,All-Weather,Race2,5.414704581,9,1:45,1:50,0.073921979,4,Time Penalty,Team2,1,2293998
-McLaren 720S,Turbocharged,505,AWD,Racing Slicks,Race1,3.94663046,11,1:30,1:32,0.182358536,6,Collision,Team1,1,1279177
-Mercedes-AMG GT R,Turbocharged,784,AWD,Racing Slicks,Race1,3.649223798,10,1:30,1:32,0.068761793,6,Collision,Team1,3,1213416
-Koenigsegg Jesko,Naturally Aspirated,555,RWD,All-Weather,Race2,3.187077796,9,1:45,1:50,0.19770633,4,Time Penalty,Team2,4,1944814
-Mercedes-AMG GT R,Naturally Aspirated,532,RWD,All-Weather,Race2,2.736406194,14,1:45,1:50,0.115513466,6,Time Penalty,Team2,2,1629945
-BMW M4 CSL,Turbocharged,555,AWD,Racing Slicks,Race1,4.422186054,8,1:30,1:32,0.055461231,6,Collision,Team1,2,1139340
-Mercedes-AMG GT R,Turbocharged,685,AWD,Racing Slicks,Race1,5.058614986,10,1:30,1:32,0.168304298,6,Collision,Team1,3,2452397
-BMW M4 CSL,Naturally Aspirated,328,RWD,All-Weather,Race2,2.913219022,14,1:45,1:50,0.172027059,4,Time Penalty,Team2,3,2773455
-Maserati MC20,Turbocharged,642,AWD,Racing Slicks,Race1,3.122674249,10,1:30,1:32,0.142702667,6,Collision,Team1,3,1309925
-Mercedes-AMG GT R,Turbocharged,621,AWD,Racing Slicks,Race1,4.213847247,10,1:30,1:32,0.103826732,3,Collision,Team1,4,2814311
-Aston Martin Vantage,Naturally Aspirated,348,RWD,All-Weather,Race2,3.858217412,13,1:45,1:50,0.12251307,4,Time Penalty,Team2,1,2055545
-Aston Martin Vantage,Turbocharged,754,AWD,Racing Slicks,Race1,2.83697464,13,1:30,1:32,0.131496924,4,Collision,Team1,4,1636341
-Alfa Romeo 4C Spider,Naturally Aspirated,460,RWD,All-Weather,Race2,5.436252198,14,1:45,1:50,0.132735269,2,Time Penalty,Team2,3,1172256
-Ford Mustang Shelby GT500,Turbocharged,630,AWD,Racing Slicks,Race1,3.126436895,12,1:30,1:32,0.19941648,3,Collision,Team1,4,1530589
-McLaren 720S,Turbocharged,625,AWD,Racing Slicks,Race1,4.126496582,10,1:30,1:32,0.145316858,2,Collision,Team1,3,2836767
-Chevrolet Corvette Z06,Naturally Aspirated,404,RWD,All-Weather,Race2,3.6363966,11,1:45,1:50,0.169433146,3,Time Penalty,Team2,4,2072277
-Ferrari 488 Pista,Naturally Aspirated,391,RWD,All-Weather,Race2,4.18726024,8,1:45,1:50,0.192176254,6,Time Penalty,Team2,1,1103091
-Porsche 911 GT3,Naturally Aspirated,576,RWD,All-Weather,Race2,4.654083352,9,1:45,1:50,0.180718241,2,Time Penalty,Team2,3,1521290
-Alfa Romeo 4C Spider,Naturally Aspirated,482,RWD,All-Weather,Race2,4.095422709,12,1:45,1:50,0.16177633,2,Time Penalty,Team2,2,2449072
-Porsche 911 GT3,Turbocharged,553,AWD,Racing Slicks,Race1,5.017028112,12,1:30,1:32,0.165731803,6,Collision,Team1,2,2024163
-Porsche 911 GT3,Turbocharged,509,AWD,Racing Slicks,Race1,4.30827045,13,1:30,1:32,0.172288836,5,Collision,Team1,3,1875903
-Alfa Romeo 4C Spider,Turbocharged,651,AWD,Racing Slicks,Race1,2.690293531,9,1:30,1:32,0.069813012,4,Collision,Team1,4,2077048
-Alfa Romeo 4C Spider,Turbocharged,527,AWD,Racing Slicks,Race1,2.812601484,13,1:30,1:32,0.137581622,3,Collision,Team1,4,1955946
-Porsche 911 GT3,Naturally Aspirated,398,RWD,All-Weather,Race2,2.505386116,14,1:45,1:50,0.152482616,3,Time Penalty,Team2,1,2628666
-Audi R8 V10 Performance,Turbocharged,731,AWD,Racing Slicks,Race1,4.703889825,13,1:30,1:32,0.104275921,5,Collision,Team1,3,2965003
-Mercedes-AMG GT R,Turbocharged,681,AWD,Racing Slicks,Race1,2.851822808,11,1:30,1:32,0.059186048,5,Collision,Team1,4,2321525
-Pagani Huayra,Naturally Aspirated,333,RWD,All-Weather,Race2,5.352011834,11,1:45,1:50,0.1365509,6,Time Penalty,Team2,4,1950074
-Chevrolet Corvette Z06,Turbocharged,711,AWD,Racing Slicks,Race1,5.063221305,13,1:30,1:32,0.100814182,6,Collision,Team1,2,2205713
-Pagani Huayra,Turbocharged,696,AWD,Racing Slicks,Race1,4.905624367,11,1:30,1:32,0.11713767,5,Collision,Team1,3,1637294
-Chevrolet Corvette Z06,Turbocharged,705,AWD,Racing Slicks,Race1,3.533366233,11,1:30,1:32,0.066535978,4,Collision,Team1,2,1651494
-Bugatti Chiron Pur Sport,Naturally Aspirated,320,RWD,All-Weather,Race2,3.271462577,13,1:45,1:50,0.190567084,2,Time Penalty,Team2,1,2970649
-Audi R8 V10 Performance,Naturally Aspirated,490,RWD,All-Weather,Race2,4.958404305,8,1:45,1:50,0.050863405,2,Time Penalty,Team2,4,1917699
-Porsche 911 GT3,Naturally Aspirated,381,RWD,All-Weather,Race2,3.167140672,9,1:45,1:50,0.092677611,3,Time Penalty,Team2,4,1814840
-Bugatti Chiron Pur Sport,Naturally Aspirated,398,RWD,All-Weather,Race2,5.455268984,12,1:45,1:50,0.125903902,4,Time Penalty,Team2,3,2172495
-Aston Martin Vantage,Naturally Aspirated,595,RWD,All-Weather,Race2,4.905436456,11,1:45,1:50,0.130903657,3,Time Penalty,Team2,2,2994926
-Alfa Romeo 4C Spider,Naturally Aspirated,330,RWD,All-Weather,Race2,3.360109464,9,1:45,1:50,0.109249817,6,Time Penalty,Team2,1,2591130
-Alfa Romeo 4C Spider,Naturally Aspirated,371,RWD,All-Weather,Race2,3.895337508,8,1:45,1:50,0.181899167,5,Time Penalty,Team2,4,1377971
-Maserati MC20,Naturally Aspirated,338,RWD,All-Weather,Race2,4.800809783,9,1:45,1:50,0.100972078,5,Time Penalty,Team2,2,2581473
-Koenigsegg Jesko,Turbocharged,619,AWD,Racing Slicks,Race1,3.169955623,12,1:30,1:32,0.064810484,2,Collision,Team1,3,2587635
-McLaren 720S,Naturally Aspirated,422,RWD,All-Weather,Race2,3.098337156,8,1:45,1:50,0.132682967,6,Time Penalty,Team2,2,1743366
-Dodge Viper ACR,Turbocharged,607,AWD,Racing Slicks,Race1,4.594085859,14,1:30,1:32,0.098884162,3,Collision,Team1,3,1111434
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,408,RWD,All-Weather,Race2,4.93375617,13,1:45,1:50,0.12679621,5,Time Penalty,Team2,4,1930921
-Ford Mustang Shelby GT500,Turbocharged,593,AWD,Racing Slicks,Race1,4.067268001,10,1:30,1:32,0.143463601,2,Collision,Team1,1,1381121
-Ford Mustang Shelby GT500,Naturally Aspirated,308,RWD,All-Weather,Race2,3.828090923,12,1:45,1:50,0.090102421,4,Time Penalty,Team2,1,1567525
-Toyota Supra GR,Naturally Aspirated,493,RWD,All-Weather,Race2,4.241152365,11,1:45,1:50,0.060699696,4,Time Penalty,Team2,3,2859071
-Jaguar F-Type R,Turbocharged,667,AWD,Racing Slicks,Race1,3.059487294,13,1:30,1:32,0.114513377,2,Collision,Team1,2,1930699
-Audi R8 V10 Performance,Naturally Aspirated,586,RWD,All-Weather,Race2,4.583233493,11,1:45,1:50,0.091872166,6,Time Penalty,Team2,1,1397015
-Bugatti Chiron Pur Sport,Turbocharged,551,AWD,Racing Slicks,Race1,3.363995936,9,1:30,1:32,0.151784437,3,Collision,Team1,2,1698181
-Aston Martin Vantage,Naturally Aspirated,580,RWD,All-Weather,Race2,3.189833134,9,1:45,1:50,0.176709035,4,Time Penalty,Team2,3,1109521
-Porsche 911 GT3,Naturally Aspirated,312,RWD,All-Weather,Race2,4.848771498,11,1:45,1:50,0.096119727,6,Time Penalty,Team2,2,1623865
-Lotus Emira,Turbocharged,574,AWD,Racing Slicks,Race1,2.763842047,13,1:30,1:32,0.084233823,3,Collision,Team1,2,1405117
-Alfa Romeo 4C Spider,Turbocharged,654,AWD,Racing Slicks,Race1,3.750933515,14,1:30,1:32,0.185030671,2,Collision,Team1,4,1055905
-Maserati MC20,Naturally Aspirated,337,RWD,All-Weather,Race2,4.176377203,8,1:45,1:50,0.145750388,2,Time Penalty,Team2,4,1957080
-Alfa Romeo 4C Spider,Turbocharged,650,AWD,Racing Slicks,Race1,2.57782502,8,1:30,1:32,0.176623879,6,Collision,Team1,4,2382542
-Dodge Viper ACR,Naturally Aspirated,593,RWD,All-Weather,Race2,4.946778245,10,1:45,1:50,0.15583052,4,Time Penalty,Team2,3,2218686
-Ford Mustang Shelby GT500,Turbocharged,749,AWD,Racing Slicks,Race1,4.192004882,14,1:30,1:32,0.093720031,3,Collision,Team1,4,1255686
-Ford Mustang Shelby GT500,Turbocharged,677,AWD,Racing Slicks,Race1,4.495783666,11,1:30,1:32,0.166983086,5,Collision,Team1,1,1140176
-Aston Martin Vantage,Turbocharged,693,AWD,Racing Slicks,Race1,3.216483127,14,1:30,1:32,0.180767499,4,Collision,Team1,1,1832206
-Toyota Supra GR,Naturally Aspirated,583,RWD,All-Weather,Race2,5.026828872,9,1:45,1:50,0.114887426,2,Time Penalty,Team2,3,2228304
-Koenigsegg Jesko,Naturally Aspirated,570,RWD,All-Weather,Race2,3.801694308,13,1:45,1:50,0.124819913,6,Time Penalty,Team2,1,1464745
-Koenigsegg Jesko,Turbocharged,722,AWD,Racing Slicks,Race1,4.737360637,11,1:30,1:32,0.10079565,6,Collision,Team1,3,2303857
-Maserati MC20,Naturally Aspirated,559,RWD,All-Weather,Race2,4.189461547,10,1:45,1:50,0.167779575,5,Time Penalty,Team2,1,2109743
-Aston Martin Vantage,Naturally Aspirated,485,RWD,All-Weather,Race2,4.07231863,10,1:45,1:50,0.131045123,2,Time Penalty,Team2,4,2724895
-Ford Mustang Shelby GT500,Naturally Aspirated,357,RWD,All-Weather,Race2,2.986080674,11,1:45,1:50,0.155273371,4,Time Penalty,Team2,3,1380146
-Nissan GT-R Nismo,Turbocharged,532,AWD,Racing Slicks,Race1,5.017463065,14,1:30,1:32,0.087899717,5,Collision,Team1,1,2825076
-Aston Martin Vantage,Naturally Aspirated,590,RWD,All-Weather,Race2,4.342365813,12,1:45,1:50,0.094288567,2,Time Penalty,Team2,3,2881414
-Nissan GT-R Nismo,Naturally Aspirated,392,RWD,All-Weather,Race2,5.455930851,10,1:45,1:50,0.183452619,6,Time Penalty,Team2,4,1076497
-McLaren 720S,Naturally Aspirated,531,RWD,All-Weather,Race2,4.085591405,10,1:45,1:50,0.125954478,2,Time Penalty,Team2,1,1136718
-Audi R8 V10 Performance,Turbocharged,754,AWD,Racing Slicks,Race1,3.08392638,9,1:30,1:32,0.183563545,6,Collision,Team1,1,2275710
-Jaguar F-Type R,Turbocharged,541,AWD,Racing Slicks,Race1,2.508727233,12,1:30,1:32,0.161002404,2,Collision,Team1,2,1636582
-Dodge Viper ACR,Turbocharged,572,AWD,Racing Slicks,Race1,3.687127535,8,1:30,1:32,0.141176097,6,Collision,Team1,1,2972160
-Porsche 911 GT3,Naturally Aspirated,317,RWD,All-Weather,Race2,2.594268318,8,1:45,1:50,0.14044022,4,Time Penalty,Team2,2,2453905
-Lamborghini HuracÃ¡n Evo,Turbocharged,677,AWD,Racing Slicks,Race1,5.207974437,11,1:30,1:32,0.146176808,4,Collision,Team1,1,1927884
-Lamborghini HuracÃ¡n Evo,Turbocharged,567,AWD,Racing Slicks,Race1,3.460580064,11,1:30,1:32,0.135179667,6,Collision,Team1,3,1935015
-Pagani Huayra,Naturally Aspirated,445,RWD,All-Weather,Race2,4.011509789,12,1:45,1:50,0.197754569,5,Time Penalty,Team2,1,2495335
-Pagani Huayra,Turbocharged,775,AWD,Racing Slicks,Race1,5.120860056,13,1:30,1:32,0.16392069,4,Collision,Team1,3,2974123
-Lamborghini HuracÃ¡n Evo,Turbocharged,737,AWD,Racing Slicks,Race1,4.812906269,11,1:30,1:32,0.146042694,3,Collision,Team1,3,2727287
-Koenigsegg Jesko,Naturally Aspirated,353,RWD,All-Weather,Race2,5.227564955,9,1:45,1:50,0.128724621,4,Time Penalty,Team2,1,1998075
-Alfa Romeo 4C Spider,Turbocharged,739,AWD,Racing Slicks,Race1,4.039828824,10,1:30,1:32,0.095077416,6,Collision,Team1,4,2594600
-Pagani Huayra,Naturally Aspirated,584,RWD,All-Weather,Race2,3.048887875,14,1:45,1:50,0.084311634,3,Time Penalty,Team2,1,2557319
-Aston Martin Vantage,Naturally Aspirated,569,RWD,All-Weather,Race2,3.540896084,13,1:45,1:50,0.142560523,2,Time Penalty,Team2,4,1251052
-Lamborghini HuracÃ¡n Evo,Turbocharged,587,AWD,Racing Slicks,Race1,5.232429705,13,1:30,1:32,0.061017124,3,Collision,Team1,2,2653989
-Koenigsegg Jesko,Naturally Aspirated,317,RWD,All-Weather,Race2,3.388403306,13,1:45,1:50,0.105279439,3,Time Penalty,Team2,3,1871238
-Lotus Emira,Naturally Aspirated,576,RWD,All-Weather,Race2,4.314687764,14,1:45,1:50,0.14942769,5,Time Penalty,Team2,1,1290548
-Mercedes-AMG GT R,Turbocharged,645,AWD,Racing Slicks,Race1,5.168919786,12,1:30,1:32,0.06322494,3,Collision,Team1,1,2932050
-Ferrari 488 Pista,Naturally Aspirated,586,RWD,All-Weather,Race2,2.791812984,8,1:45,1:50,0.149103186,5,Time Penalty,Team2,1,2666639
-Ford Mustang Shelby GT500,Naturally Aspirated,493,RWD,All-Weather,Race2,3.222346569,10,1:45,1:50,0.064858643,3,Time Penalty,Team2,4,2174943
-Alfa Romeo 4C Spider,Naturally Aspirated,422,RWD,All-Weather,Race2,3.602267802,9,1:45,1:50,0.139619715,2,Time Penalty,Team2,2,2734003
-Dodge Viper ACR,Turbocharged,751,AWD,Racing Slicks,Race1,4.766866673,14,1:30,1:32,0.092232813,6,Collision,Team1,1,2672729
-Koenigsegg Jesko,Turbocharged,754,AWD,Racing Slicks,Race1,2.622937196,8,1:30,1:32,0.067944718,2,Collision,Team1,1,2717219
-Ferrari 488 Pista,Turbocharged,642,AWD,Racing Slicks,Race1,3.907018284,14,1:30,1:32,0.174813495,3,Collision,Team1,2,2499426
-Jaguar F-Type R,Naturally Aspirated,371,RWD,All-Weather,Race2,4.98825374,13,1:45,1:50,0.085477973,3,Time Penalty,Team2,1,1592084
-BMW M4 CSL,Naturally Aspirated,566,RWD,All-Weather,Race2,3.385190004,9,1:45,1:50,0.195525733,5,Time Penalty,Team2,3,1834868
-Dodge Viper ACR,Turbocharged,798,AWD,Racing Slicks,Race1,3.040899825,10,1:30,1:32,0.100059236,6,Collision,Team1,3,1451763
-Bugatti Chiron Pur Sport,Turbocharged,560,AWD,Racing Slicks,Race1,2.739137424,9,1:30,1:32,0.123981602,3,Collision,Team1,1,1707863
-Maserati MC20,Naturally Aspirated,594,RWD,All-Weather,Race2,2.691174112,13,1:45,1:50,0.198592736,5,Time Penalty,Team2,3,2696822
-Mercedes-AMG GT R,Turbocharged,777,AWD,Racing Slicks,Race1,3.690428903,8,1:30,1:32,0.120624213,6,Collision,Team1,1,1351367
-Ferrari 488 Pista,Naturally Aspirated,503,RWD,All-Weather,Race2,4.000028814,9,1:45,1:50,0.148117337,2,Time Penalty,Team2,2,2359330
-Aston Martin Vantage,Naturally Aspirated,420,RWD,All-Weather,Race2,3.849857335,10,1:45,1:50,0.094972858,3,Time Penalty,Team2,3,1679384
-Alfa Romeo 4C Spider,Turbocharged,659,AWD,Racing Slicks,Race1,3.668723947,12,1:30,1:32,0.18927465,5,Collision,Team1,4,2606607
-Audi R8 V10 Performance,Turbocharged,509,AWD,Racing Slicks,Race1,2.806336607,11,1:30,1:32,0.067031788,5,Collision,Team1,1,1297211
-Dodge Viper ACR,Naturally Aspirated,322,RWD,All-Weather,Race2,5.147295678,9,1:45,1:50,0.141159948,5,Time Penalty,Team2,1,1048855
-Koenigsegg Jesko,Naturally Aspirated,524,RWD,All-Weather,Race2,5.17319392,9,1:45,1:50,0.123526489,5,Time Penalty,Team2,1,1519272
-McLaren 720S,Naturally Aspirated,475,RWD,All-Weather,Race2,3.097120902,10,1:45,1:50,0.11168191,2,Time Penalty,Team2,4,1092655
-Bugatti Chiron Pur Sport,Turbocharged,577,AWD,Racing Slicks,Race1,2.745535601,12,1:30,1:32,0.063766055,5,Collision,Team1,2,2539420
-Nissan GT-R Nismo,Turbocharged,793,AWD,Racing Slicks,Race1,4.905386641,14,1:30,1:32,0.163993606,3,Collision,Team1,1,2495915
-Alfa Romeo 4C Spider,Naturally Aspirated,515,RWD,All-Weather,Race2,3.339039597,9,1:45,1:50,0.086315937,2,Time Penalty,Team2,2,2324730
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,490,RWD,All-Weather,Race2,4.733010799,13,1:45,1:50,0.083373019,2,Time Penalty,Team2,4,1075201
-Jaguar F-Type R,Naturally Aspirated,576,RWD,All-Weather,Race2,5.449573255,8,1:45,1:50,0.06635612,2,Time Penalty,Team2,1,1315933
-Maserati MC20,Naturally Aspirated,588,RWD,All-Weather,Race2,5.278089994,14,1:45,1:50,0.095697648,6,Time Penalty,Team2,3,1624427
-Koenigsegg Jesko,Naturally Aspirated,530,RWD,All-Weather,Race2,3.869874769,9,1:45,1:50,0.118005189,3,Time Penalty,Team2,4,2660048
-Mercedes-AMG GT R,Turbocharged,716,AWD,Racing Slicks,Race1,5.156340784,9,1:30,1:32,0.169598561,4,Collision,Team1,3,1149307
-Toyota Supra GR,Turbocharged,775,AWD,Racing Slicks,Race1,4.085813083,8,1:30,1:32,0.147932166,2,Collision,Team1,3,1522858
-Alfa Romeo 4C Spider,Turbocharged,760,AWD,Racing Slicks,Race1,4.001068623,11,1:30,1:32,0.137760323,6,Collision,Team1,1,2043760
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,586,RWD,All-Weather,Race2,5.306279965,13,1:45,1:50,0.082071614,5,Time Penalty,Team2,1,2184993
-McLaren 720S,Naturally Aspirated,584,RWD,All-Weather,Race2,4.858563078,8,1:45,1:50,0.05959806,6,Time Penalty,Team2,2,1925877
-Chevrolet Corvette Z06,Turbocharged,737,AWD,Racing Slicks,Race1,2.991568029,13,1:30,1:32,0.159937096,4,Collision,Team1,3,2133457
-Pagani Huayra,Turbocharged,680,AWD,Racing Slicks,Race1,3.642822786,12,1:30,1:32,0.111634511,4,Collision,Team1,2,1494885
-Audi R8 V10 Performance,Turbocharged,549,AWD,Racing Slicks,Race1,5.123012785,9,1:30,1:32,0.149683884,3,Collision,Team1,3,1821383
-Maserati MC20,Naturally Aspirated,401,RWD,All-Weather,Race2,4.473287897,13,1:45,1:50,0.169641571,3,Time Penalty,Team2,1,1652028
-Ferrari 488 Pista,Naturally Aspirated,503,RWD,All-Weather,Race2,4.919975963,14,1:45,1:50,0.186369481,6,Time Penalty,Team2,2,1119436
-Aston Martin Vantage,Turbocharged,500,AWD,Racing Slicks,Race1,5.289099813,9,1:30,1:32,0.129621528,4,Collision,Team1,1,1532561
-BMW M4 CSL,Turbocharged,578,AWD,Racing Slicks,Race1,3.850274899,14,1:30,1:32,0.164452122,5,Collision,Team1,3,2985533
-Nissan GT-R Nismo,Naturally Aspirated,352,RWD,All-Weather,Race2,3.663149999,12,1:45,1:50,0.066814728,4,Time Penalty,Team2,4,1464526
-Alfa Romeo 4C Spider,Naturally Aspirated,385,RWD,All-Weather,Race2,3.015737236,14,1:45,1:50,0.179895502,5,Time Penalty,Team2,4,1286643
-Jaguar F-Type R,Turbocharged,561,AWD,Racing Slicks,Race1,3.703466136,9,1:30,1:32,0.138388551,4,Collision,Team1,4,2418915
-Bugatti Chiron Pur Sport,Turbocharged,631,AWD,Racing Slicks,Race1,3.436815103,10,1:30,1:32,0.088599945,2,Collision,Team1,4,1184533
-Ferrari 488 Pista,Turbocharged,699,AWD,Racing Slicks,Race1,5.317124472,8,1:30,1:32,0.134417699,6,Collision,Team1,1,2475774
-Chevrolet Corvette Z06,Naturally Aspirated,319,RWD,All-Weather,Race2,3.336829564,14,1:45,1:50,0.143615349,4,Time Penalty,Team2,3,1081288
-Lotus Emira,Turbocharged,601,AWD,Racing Slicks,Race1,2.99190721,14,1:30,1:32,0.10537162,6,Collision,Team1,2,1545141
-Nissan GT-R Nismo,Turbocharged,707,AWD,Racing Slicks,Race1,4.528460787,13,1:30,1:32,0.181922704,4,Collision,Team1,4,1693662
-Lotus Emira,Turbocharged,660,AWD,Racing Slicks,Race1,3.407393509,10,1:30,1:32,0.118003243,4,Collision,Team1,1,2893518
-Aston Martin Vantage,Turbocharged,531,AWD,Racing Slicks,Race1,4.803196004,13,1:30,1:32,0.178844971,6,Collision,Team1,3,1453554
-Pagani Huayra,Naturally Aspirated,336,RWD,All-Weather,Race2,4.728674637,14,1:45,1:50,0.090517147,3,Time Penalty,Team2,1,1790255
-Bugatti Chiron Pur Sport,Naturally Aspirated,484,RWD,All-Weather,Race2,3.663984431,13,1:45,1:50,0.17047263,2,Time Penalty,Team2,2,2476587
-Ferrari 488 Pista,Turbocharged,561,AWD,Racing Slicks,Race1,3.297400606,14,1:30,1:32,0.066791208,5,Collision,Team1,3,2918914
-Audi R8 V10 Performance,Turbocharged,557,AWD,Racing Slicks,Race1,4.69585178,14,1:30,1:32,0.149342332,3,Collision,Team1,3,2917649
-Mercedes-AMG GT R,Naturally Aspirated,370,RWD,All-Weather,Race2,3.062045012,9,1:45,1:50,0.164517742,3,Time Penalty,Team2,4,1682981
-Lamborghini HuracÃ¡n Evo,Turbocharged,619,AWD,Racing Slicks,Race1,3.494855792,9,1:30,1:32,0.078000535,5,Collision,Team1,2,1316044
-Ford Mustang Shelby GT500,Naturally Aspirated,518,RWD,All-Weather,Race2,5.234081669,8,1:45,1:50,0.074027334,4,Time Penalty,Team2,3,2861869
-Nissan GT-R Nismo,Naturally Aspirated,414,RWD,All-Weather,Race2,4.174333847,13,1:45,1:50,0.089316718,5,Time Penalty,Team2,2,1238702
-Ferrari 488 Pista,Naturally Aspirated,420,RWD,All-Weather,Race2,4.608156848,12,1:45,1:50,0.133406802,4,Time Penalty,Team2,3,2937920
-Mercedes-AMG GT R,Turbocharged,747,AWD,Racing Slicks,Race1,4.415318792,9,1:30,1:32,0.150909362,5,Collision,Team1,4,2661886
-Pagani Huayra,Turbocharged,504,AWD,Racing Slicks,Race1,5.440057373,8,1:30,1:32,0.16503271,4,Collision,Team1,1,1367529
-Audi R8 V10 Performance,Turbocharged,635,AWD,Racing Slicks,Race1,3.921070187,11,1:30,1:32,0.172826097,3,Collision,Team1,4,1738565
-Bugatti Chiron Pur Sport,Naturally Aspirated,547,RWD,All-Weather,Race2,3.00452968,10,1:45,1:50,0.099106961,2,Time Penalty,Team2,1,2226646
-Dodge Viper ACR,Turbocharged,798,AWD,Racing Slicks,Race1,5.269687734,8,1:30,1:32,0.134125886,6,Collision,Team1,1,1970884
-Jaguar F-Type R,Turbocharged,500,AWD,Racing Slicks,Race1,3.974789617,9,1:30,1:32,0.116368877,3,Collision,Team1,4,2721702
-McLaren 720S,Naturally Aspirated,484,RWD,All-Weather,Race2,4.832503866,13,1:45,1:50,0.130899931,3,Time Penalty,Team2,3,1754099
-Nissan GT-R Nismo,Turbocharged,504,AWD,Racing Slicks,Race1,3.027911698,8,1:30,1:32,0.177977265,5,Collision,Team1,4,1754577
-Alfa Romeo 4C Spider,Naturally Aspirated,599,RWD,All-Weather,Race2,2.812916679,14,1:45,1:50,0.110433414,6,Time Penalty,Team2,4,2036696
-Mercedes-AMG GT R,Turbocharged,582,AWD,Racing Slicks,Race1,4.011097981,9,1:30,1:32,0.090857645,3,Collision,Team1,1,2471393
-Maserati MC20,Turbocharged,555,AWD,Racing Slicks,Race1,4.202217049,11,1:30,1:32,0.067633015,3,Collision,Team1,1,1731102
-Aston Martin Vantage,Turbocharged,656,AWD,Racing Slicks,Race1,3.827999534,14,1:30,1:32,0.060918654,2,Collision,Team1,3,1575741
-Pagani Huayra,Turbocharged,786,AWD,Racing Slicks,Race1,4.72635532,8,1:30,1:32,0.133574065,4,Collision,Team1,1,1899128
-Alfa Romeo 4C Spider,Naturally Aspirated,554,RWD,All-Weather,Race2,4.164104118,8,1:45,1:50,0.07953136,4,Time Penalty,Team2,2,1504757
-Ferrari 488 Pista,Naturally Aspirated,382,RWD,All-Weather,Race2,2.531953858,11,1:45,1:50,0.074698079,2,Time Penalty,Team2,1,2018849
-Audi R8 V10 Performance,Turbocharged,598,AWD,Racing Slicks,Race1,3.445263568,8,1:30,1:32,0.101283851,2,Collision,Team1,2,2908471
-Aston Martin Vantage,Turbocharged,539,AWD,Racing Slicks,Race1,4.138128913,14,1:30,1:32,0.10127932,2,Collision,Team1,1,2503168
-Koenigsegg Jesko,Turbocharged,573,AWD,Racing Slicks,Race1,3.295056967,11,1:30,1:32,0.168912407,6,Collision,Team1,1,2145621
-Chevrolet Corvette Z06,Naturally Aspirated,344,RWD,All-Weather,Race2,2.730681559,9,1:45,1:50,0.099422642,6,Time Penalty,Team2,4,2483575
-Dodge Viper ACR,Naturally Aspirated,379,RWD,All-Weather,Race2,3.375859275,14,1:45,1:50,0.16602403,2,Time Penalty,Team2,3,2907047
-BMW M4 CSL,Naturally Aspirated,543,RWD,All-Weather,Race2,4.727379732,13,1:45,1:50,0.067438836,6,Time Penalty,Team2,2,1958120
-Mercedes-AMG GT R,Naturally Aspirated,564,RWD,All-Weather,Race2,3.784989175,13,1:45,1:50,0.148954415,6,Time Penalty,Team2,4,1269215
-BMW M4 CSL,Naturally Aspirated,367,RWD,All-Weather,Race2,3.358746953,13,1:45,1:50,0.058922079,6,Time Penalty,Team2,3,1064643
-McLaren 720S,Turbocharged,562,AWD,Racing Slicks,Race1,4.160631606,9,1:30,1:32,0.172007525,2,Collision,Team1,2,1994760
-Maserati MC20,Naturally Aspirated,597,RWD,All-Weather,Race2,5.38292271,11,1:45,1:50,0.094106335,3,Time Penalty,Team2,3,1158954
-Porsche 911 GT3,Turbocharged,566,AWD,Racing Slicks,Race1,2.631257897,11,1:30,1:32,0.184540778,2,Collision,Team1,4,1949207
-Aston Martin Vantage,Turbocharged,646,AWD,Racing Slicks,Race1,5.343577156,13,1:30,1:32,0.106062198,6,Collision,Team1,4,2967584
-Mercedes-AMG GT R,Naturally Aspirated,395,RWD,All-Weather,Race2,3.85820376,12,1:45,1:50,0.144924393,2,Time Penalty,Team2,4,2344070
-Audi R8 V10 Performance,Turbocharged,755,AWD,Racing Slicks,Race1,5.35229368,12,1:30,1:32,0.140056426,4,Collision,Team1,4,2909568
-Chevrolet Corvette Z06,Naturally Aspirated,308,RWD,All-Weather,Race2,3.539344825,9,1:45,1:50,0.171816046,5,Time Penalty,Team2,1,1388327
-Porsche 911 GT3,Turbocharged,545,AWD,Racing Slicks,Race1,4.092928088,14,1:30,1:32,0.087701088,3,Collision,Team1,2,1863347
-Porsche 911 GT3,Turbocharged,526,AWD,Racing Slicks,Race1,5.466139363,13,1:30,1:32,0.080611101,2,Collision,Team1,4,1246538
-Maserati MC20,Naturally Aspirated,560,RWD,All-Weather,Race2,5.407295296,12,1:45,1:50,0.066005461,5,Time Penalty,Team2,4,2021460
-Chevrolet Corvette Z06,Turbocharged,646,AWD,Racing Slicks,Race1,2.570929379,12,1:30,1:32,0.168089285,2,Collision,Team1,2,1368319
-Maserati MC20,Naturally Aspirated,404,RWD,All-Weather,Race2,4.590983528,11,1:45,1:50,0.142582532,5,Time Penalty,Team2,1,2892596
-Porsche 911 GT3,Naturally Aspirated,441,RWD,All-Weather,Race2,4.376637587,14,1:45,1:50,0.057701839,4,Time Penalty,Team2,1,2733934
-Chevrolet Corvette Z06,Naturally Aspirated,527,RWD,All-Weather,Race2,3.431457205,8,1:45,1:50,0.148036298,3,Time Penalty,Team2,3,1279607
-Bugatti Chiron Pur Sport,Turbocharged,692,AWD,Racing Slicks,Race1,2.99605613,12,1:30,1:32,0.173955929,4,Collision,Team1,2,2523018
-Chevrolet Corvette Z06,Naturally Aspirated,411,RWD,All-Weather,Race2,4.888285363,8,1:45,1:50,0.165928275,4,Time Penalty,Team2,2,2039526
-Bugatti Chiron Pur Sport,Turbocharged,777,AWD,Racing Slicks,Race1,4.826796032,14,1:30,1:32,0.090330471,6,Collision,Team1,3,2513887
-Koenigsegg Jesko,Naturally Aspirated,303,RWD,All-Weather,Race2,3.757180198,10,1:45,1:50,0.146670113,6,Time Penalty,Team2,2,2623954
-Bugatti Chiron Pur Sport,Naturally Aspirated,457,RWD,All-Weather,Race2,2.965219131,9,1:45,1:50,0.157853615,4,Time Penalty,Team2,3,2657361
-Chevrolet Corvette Z06,Naturally Aspirated,357,RWD,All-Weather,Race2,4.2773758,9,1:45,1:50,0.170624125,4,Time Penalty,Team2,1,2870664
-Lamborghini HuracÃ¡n Evo,Turbocharged,550,AWD,Racing Slicks,Race1,4.868947647,13,1:30,1:32,0.121496596,6,Collision,Team1,3,2045183
-Chevrolet Corvette Z06,Turbocharged,728,AWD,Racing Slicks,Race1,5.096006756,9,1:30,1:32,0.185851123,2,Collision,Team1,1,2291076
-Lamborghini HuracÃ¡n Evo,Turbocharged,727,AWD,Racing Slicks,Race1,2.636147282,8,1:30,1:32,0.057195305,4,Collision,Team1,2,2073918
-Lamborghini HuracÃ¡n Evo,Turbocharged,715,AWD,Racing Slicks,Race1,3.101678931,12,1:30,1:32,0.065781979,2,Collision,Team1,3,1294536
-Bugatti Chiron Pur Sport,Naturally Aspirated,501,RWD,All-Weather,Race2,4.266209965,8,1:45,1:50,0.17918667,2,Time Penalty,Team2,1,1920558
-Toyota Supra GR,Naturally Aspirated,324,RWD,All-Weather,Race2,5.449215068,8,1:45,1:50,0.083098389,2,Time Penalty,Team2,4,2020399
-Toyota Supra GR,Naturally Aspirated,564,RWD,All-Weather,Race2,3.575239969,11,1:45,1:50,0.155332901,3,Time Penalty,Team2,4,2096692
-Maserati MC20,Naturally Aspirated,317,RWD,All-Weather,Race2,2.793495059,10,1:45,1:50,0.062190955,3,Time Penalty,Team2,3,2497695
-Mercedes-AMG GT R,Naturally Aspirated,315,RWD,All-Weather,Race2,3.971586399,10,1:45,1:50,0.137922452,2,Time Penalty,Team2,1,2351374
-Maserati MC20,Naturally Aspirated,447,RWD,All-Weather,Race2,5.108763178,13,1:45,1:50,0.135498891,3,Time Penalty,Team2,4,1906720
-Pagani Huayra,Naturally Aspirated,415,RWD,All-Weather,Race2,5.40675347,13,1:45,1:50,0.19058015,5,Time Penalty,Team2,2,2956917
-Nissan GT-R Nismo,Turbocharged,638,AWD,Racing Slicks,Race1,3.700617727,10,1:30,1:32,0.119830694,4,Collision,Team1,1,2840193
-Porsche 911 GT3,Naturally Aspirated,501,RWD,All-Weather,Race2,2.586869609,12,1:45,1:50,0.091205631,3,Time Penalty,Team2,4,1411672
-Alfa Romeo 4C Spider,Naturally Aspirated,370,RWD,All-Weather,Race2,4.276525204,11,1:45,1:50,0.077538777,4,Time Penalty,Team2,1,1915941
-Koenigsegg Jesko,Naturally Aspirated,385,RWD,All-Weather,Race2,4.698401611,14,1:45,1:50,0.071537567,2,Time Penalty,Team2,2,2643862
-Jaguar F-Type R,Turbocharged,605,AWD,Racing Slicks,Race1,3.585823048,8,1:30,1:32,0.09788248,2,Collision,Team1,3,1420047
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,486,RWD,All-Weather,Race2,3.600906353,10,1:45,1:50,0.068225061,4,Time Penalty,Team2,2,1540509
-Aston Martin Vantage,Naturally Aspirated,342,RWD,All-Weather,Race2,3.918639239,9,1:45,1:50,0.061348471,2,Time Penalty,Team2,1,2940081
-Toyota Supra GR,Turbocharged,752,AWD,Racing Slicks,Race1,3.581898632,14,1:30,1:32,0.184571657,2,Collision,Team1,1,1939546
-Aston Martin Vantage,Naturally Aspirated,559,RWD,All-Weather,Race2,5.349124896,9,1:45,1:50,0.185449326,3,Time Penalty,Team2,3,1290801
-Maserati MC20,Turbocharged,636,AWD,Racing Slicks,Race1,4.697586416,12,1:30,1:32,0.058937294,5,Collision,Team1,3,1951820
-Mercedes-AMG GT R,Turbocharged,635,AWD,Racing Slicks,Race1,4.013606866,12,1:30,1:32,0.154744365,2,Collision,Team1,3,2111821
-Nissan GT-R Nismo,Naturally Aspirated,420,RWD,All-Weather,Race2,2.986758244,9,1:45,1:50,0.055603635,2,Time Penalty,Team2,2,1500592
-Jaguar F-Type R,Naturally Aspirated,450,RWD,All-Weather,Race2,4.764136002,8,1:45,1:50,0.137674428,6,Time Penalty,Team2,1,2510627
-Porsche 911 GT3,Naturally Aspirated,491,RWD,All-Weather,Race2,2.65232946,8,1:45,1:50,0.126669343,4,Time Penalty,Team2,3,1468619
-Porsche 911 GT3,Naturally Aspirated,352,RWD,All-Weather,Race2,4.093479938,10,1:45,1:50,0.168854202,2,Time Penalty,Team2,2,2898164
-Chevrolet Corvette Z06,Naturally Aspirated,331,RWD,All-Weather,Race2,4.592734894,8,1:45,1:50,0.176928016,2,Time Penalty,Team2,4,1030304
-Toyota Supra GR,Turbocharged,721,AWD,Racing Slicks,Race1,4.500035766,9,1:30,1:32,0.053434303,2,Collision,Team1,2,1748019
-Nissan GT-R Nismo,Naturally Aspirated,449,RWD,All-Weather,Race2,3.572539868,11,1:45,1:50,0.068389664,4,Time Penalty,Team2,1,2608266
-Porsche 911 GT3,Turbocharged,606,AWD,Racing Slicks,Race1,3.67375355,13,1:30,1:32,0.160839104,5,Collision,Team1,3,2207032
-Koenigsegg Jesko,Naturally Aspirated,342,RWD,All-Weather,Race2,4.797832563,13,1:45,1:50,0.080932172,4,Time Penalty,Team2,4,1795508
-Mercedes-AMG GT R,Turbocharged,717,AWD,Racing Slicks,Race1,3.54176094,9,1:30,1:32,0.061207037,5,Collision,Team1,4,2436485
-Mercedes-AMG GT R,Turbocharged,753,AWD,Racing Slicks,Race1,2.631814665,8,1:30,1:32,0.116807226,6,Collision,Team1,3,1535367
-Dodge Viper ACR,Naturally Aspirated,535,RWD,All-Weather,Race2,2.795754004,8,1:45,1:50,0.107963014,3,Time Penalty,Team2,2,1128427
-Lotus Emira,Naturally Aspirated,374,RWD,All-Weather,Race2,3.82876213,9,1:45,1:50,0.080840321,2,Time Penalty,Team2,4,1777208
-Jaguar F-Type R,Turbocharged,596,AWD,Racing Slicks,Race1,3.798993473,14,1:30,1:32,0.068908711,5,Collision,Team1,3,1070068
-Dodge Viper ACR,Naturally Aspirated,450,RWD,All-Weather,Race2,3.384082561,11,1:45,1:50,0.13629993,3,Time Penalty,Team2,3,2184491
-Dodge Viper ACR,Turbocharged,746,AWD,Racing Slicks,Race1,4.469752118,12,1:30,1:32,0.068309999,2,Collision,Team1,2,2830484
-Bugatti Chiron Pur Sport,Naturally Aspirated,332,RWD,All-Weather,Race2,5.267151518,12,1:45,1:50,0.167236767,2,Time Penalty,Team2,3,2434914
-Mercedes-AMG GT R,Naturally Aspirated,590,RWD,All-Weather,Race2,4.053808512,10,1:45,1:50,0.112498795,2,Time Penalty,Team2,1,1018222
-Koenigsegg Jesko,Turbocharged,518,AWD,Racing Slicks,Race1,4.434041387,10,1:30,1:32,0.090418724,3,Collision,Team1,1,1705322
-Pagani Huayra,Naturally Aspirated,429,RWD,All-Weather,Race2,2.666911096,12,1:45,1:50,0.194404071,4,Time Penalty,Team2,4,2100926
-Dodge Viper ACR,Turbocharged,732,AWD,Racing Slicks,Race1,3.504294044,11,1:30,1:32,0.124410763,5,Collision,Team1,3,1397087
-Nissan GT-R Nismo,Naturally Aspirated,369,RWD,All-Weather,Race2,3.08849768,13,1:45,1:50,0.055756828,3,Time Penalty,Team2,1,2937357
-Toyota Supra GR,Naturally Aspirated,480,RWD,All-Weather,Race2,5.343689161,13,1:45,1:50,0.133134402,2,Time Penalty,Team2,4,2967173
-Bugatti Chiron Pur Sport,Turbocharged,565,AWD,Racing Slicks,Race1,4.356736811,9,1:30,1:32,0.146729166,3,Collision,Team1,3,1615249
-Nissan GT-R Nismo,Turbocharged,786,AWD,Racing Slicks,Race1,4.010930353,14,1:30,1:32,0.158815531,3,Collision,Team1,2,2234988
-Maserati MC20,Naturally Aspirated,517,RWD,All-Weather,Race2,3.818524968,10,1:45,1:50,0.102226725,2,Time Penalty,Team2,3,1953227
-Ferrari 488 Pista,Turbocharged,592,AWD,Racing Slicks,Race1,2.617072148,12,1:30,1:32,0.119219731,5,Collision,Team1,1,2386337
-Dodge Viper ACR,Naturally Aspirated,502,RWD,All-Weather,Race2,2.973531009,9,1:45,1:50,0.106257445,5,Time Penalty,Team2,1,2233558
-Ford Mustang Shelby GT500,Naturally Aspirated,575,RWD,All-Weather,Race2,5.149594903,12,1:45,1:50,0.134526834,5,Time Penalty,Team2,1,1477137
-Ferrari 488 Pista,Naturally Aspirated,339,RWD,All-Weather,Race2,3.867550223,9,1:45,1:50,0.083382768,2,Time Penalty,Team2,4,1500779
-Toyota Supra GR,Naturally Aspirated,488,RWD,All-Weather,Race2,2.617296618,9,1:45,1:50,0.160975092,4,Time Penalty,Team2,2,1290777
-Nissan GT-R Nismo,Naturally Aspirated,375,RWD,All-Weather,Race2,3.885831577,12,1:45,1:50,0.186648321,3,Time Penalty,Team2,2,1781928
-BMW M4 CSL,Naturally Aspirated,508,RWD,All-Weather,Race2,2.856766917,8,1:45,1:50,0.12102394,3,Time Penalty,Team2,3,2010181
-Lamborghini HuracÃ¡n Evo,Turbocharged,712,AWD,Racing Slicks,Race1,4.993268097,11,1:30,1:32,0.138867658,6,Collision,Team1,1,1234455
-Aston Martin Vantage,Turbocharged,539,AWD,Racing Slicks,Race1,4.483476489,12,1:30,1:32,0.098886215,5,Collision,Team1,4,1723070
-Chevrolet Corvette Z06,Naturally Aspirated,469,RWD,All-Weather,Race2,3.741450435,10,1:45,1:50,0.103754836,5,Time Penalty,Team2,3,2710460
-Ferrari 488 Pista,Naturally Aspirated,395,RWD,All-Weather,Race2,4.405787508,12,1:45,1:50,0.069175676,3,Time Penalty,Team2,1,1159895
-Mercedes-AMG GT R,Turbocharged,738,AWD,Racing Slicks,Race1,4.402282557,9,1:30,1:32,0.158141106,3,Collision,Team1,3,1164049
-Aston Martin Vantage,Naturally Aspirated,326,RWD,All-Weather,Race2,4.163099078,12,1:45,1:50,0.055533719,4,Time Penalty,Team2,2,1921875
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,562,RWD,All-Weather,Race2,2.765921141,11,1:45,1:50,0.14439457,5,Time Penalty,Team2,2,1022907
-Chevrolet Corvette Z06,Turbocharged,785,AWD,Racing Slicks,Race1,3.508425486,12,1:30,1:32,0.09472607,6,Collision,Team1,3,2169263
-Ferrari 488 Pista,Turbocharged,652,AWD,Racing Slicks,Race1,2.841255447,13,1:30,1:32,0.101466871,4,Collision,Team1,4,1710303
-Dodge Viper ACR,Turbocharged,593,AWD,Racing Slicks,Race1,5.029961543,8,1:30,1:32,0.1950989,3,Collision,Team1,4,1571423
-Bugatti Chiron Pur Sport,Naturally Aspirated,556,RWD,All-Weather,Race2,5.216619403,8,1:45,1:50,0.18382801,5,Time Penalty,Team2,2,1796795
-Lotus Emira,Turbocharged,511,AWD,Racing Slicks,Race1,4.818677438,9,1:30,1:32,0.169383282,3,Collision,Team1,2,1300571
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,570,RWD,All-Weather,Race2,2.985259859,9,1:45,1:50,0.109885344,6,Time Penalty,Team2,4,2611471
-Alfa Romeo 4C Spider,Naturally Aspirated,348,RWD,All-Weather,Race2,3.423847943,10,1:45,1:50,0.08427414,3,Time Penalty,Team2,4,2383123
-Ferrari 488 Pista,Turbocharged,628,AWD,Racing Slicks,Race1,4.239516037,10,1:30,1:32,0.081723762,5,Collision,Team1,2,1554720
-McLaren 720S,Turbocharged,744,AWD,Racing Slicks,Race1,4.30191827,8,1:30,1:32,0.176176882,3,Collision,Team1,4,1823642
-Porsche 911 GT3,Turbocharged,527,AWD,Racing Slicks,Race1,4.391655002,10,1:30,1:32,0.059105144,2,Collision,Team1,1,1306522
-Ford Mustang Shelby GT500,Turbocharged,654,AWD,Racing Slicks,Race1,3.560635659,8,1:30,1:32,0.120699271,3,Collision,Team1,3,1463710
-BMW M4 CSL,Turbocharged,669,AWD,Racing Slicks,Race1,5.417661198,11,1:30,1:32,0.182802069,5,Collision,Team1,1,1491947
-Lamborghini HuracÃ¡n Evo,Turbocharged,680,AWD,Racing Slicks,Race1,3.966346188,13,1:30,1:32,0.174064333,5,Collision,Team1,3,2793816
-Ferrari 488 Pista,Turbocharged,589,AWD,Racing Slicks,Race1,5.015593349,9,1:30,1:32,0.152927391,2,Collision,Team1,3,1917325
-Dodge Viper ACR,Naturally Aspirated,375,RWD,All-Weather,Race2,3.189814145,14,1:45,1:50,0.132717691,5,Time Penalty,Team2,4,2474652
-Ford Mustang Shelby GT500,Naturally Aspirated,432,RWD,All-Weather,Race2,3.910004659,12,1:45,1:50,0.122507663,3,Time Penalty,Team2,3,2070502
-Ferrari 488 Pista,Turbocharged,544,AWD,Racing Slicks,Race1,3.495353078,13,1:30,1:32,0.096725794,5,Collision,Team1,1,1788333
-Lotus Emira,Turbocharged,782,AWD,Racing Slicks,Race1,3.03677798,10,1:30,1:32,0.080672989,3,Collision,Team1,2,2923517
-Bugatti Chiron Pur Sport,Naturally Aspirated,479,RWD,All-Weather,Race2,3.68486981,14,1:45,1:50,0.196262342,4,Time Penalty,Team2,2,1354182
-Mercedes-AMG GT R,Naturally Aspirated,493,RWD,All-Weather,Race2,3.380396569,9,1:45,1:50,0.151763506,4,Time Penalty,Team2,2,2100939
-Chevrolet Corvette Z06,Naturally Aspirated,485,RWD,All-Weather,Race2,3.958876358,14,1:45,1:50,0.098467076,6,Time Penalty,Team2,1,2364043
-Lamborghini HuracÃ¡n Evo,Turbocharged,798,AWD,Racing Slicks,Race1,4.209209794,8,1:30,1:32,0.144894166,2,Collision,Team1,2,1308615
-Dodge Viper ACR,Naturally Aspirated,326,RWD,All-Weather,Race2,2.979758978,12,1:45,1:50,0.099133597,3,Time Penalty,Team2,1,2466811
-Porsche 911 GT3,Naturally Aspirated,596,RWD,All-Weather,Race2,2.79786419,8,1:45,1:50,0.104063119,6,Time Penalty,Team2,3,1266590
-Maserati MC20,Naturally Aspirated,474,RWD,All-Weather,Race2,4.915588102,14,1:45,1:50,0.179528307,3,Time Penalty,Team2,4,1614356
-Toyota Supra GR,Naturally Aspirated,551,RWD,All-Weather,Race2,4.55660726,8,1:45,1:50,0.190768557,3,Time Penalty,Team2,1,1846334
-Aston Martin Vantage,Turbocharged,798,AWD,Racing Slicks,Race1,3.071796868,10,1:30,1:32,0.110693182,4,Collision,Team1,3,1300820
-Alfa Romeo 4C Spider,Naturally Aspirated,447,RWD,All-Weather,Race2,3.167669964,11,1:45,1:50,0.127060783,4,Time Penalty,Team2,1,1539087
-Dodge Viper ACR,Naturally Aspirated,521,RWD,All-Weather,Race2,4.801322823,8,1:45,1:50,0.126945863,4,Time Penalty,Team2,2,1509542
-Toyota Supra GR,Turbocharged,795,AWD,Racing Slicks,Race1,3.586978996,9,1:30,1:32,0.072712298,3,Collision,Team1,4,1968503
-Maserati MC20,Turbocharged,619,AWD,Racing Slicks,Race1,3.052183636,14,1:30,1:32,0.193774161,6,Collision,Team1,4,1237437
-Nissan GT-R Nismo,Turbocharged,697,AWD,Racing Slicks,Race1,4.167453296,8,1:30,1:32,0.146602802,6,Collision,Team1,3,1729682
-Alfa Romeo 4C Spider,Turbocharged,670,AWD,Racing Slicks,Race1,4.679235102,9,1:30,1:32,0.137938154,3,Collision,Team1,2,1935020
-Ford Mustang Shelby GT500,Naturally Aspirated,522,RWD,All-Weather,Race2,5.378984384,9,1:45,1:50,0.197849493,3,Time Penalty,Team2,3,1108232
-Jaguar F-Type R,Turbocharged,680,AWD,Racing Slicks,Race1,4.016482654,12,1:30,1:32,0.082558623,2,Collision,Team1,3,2396862
-Nissan GT-R Nismo,Naturally Aspirated,422,RWD,All-Weather,Race2,3.632636755,12,1:45,1:50,0.056128706,2,Time Penalty,Team2,1,1162879
-Lotus Emira,Naturally Aspirated,500,RWD,All-Weather,Race2,4.762957092,11,1:45,1:50,0.173157387,2,Time Penalty,Team2,1,2898165
-Toyota Supra GR,Turbocharged,695,AWD,Racing Slicks,Race1,4.990039606,12,1:30,1:32,0.0815358,6,Collision,Team1,4,2084108
-Dodge Viper ACR,Turbocharged,642,AWD,Racing Slicks,Race1,4.919789864,12,1:30,1:32,0.160998219,4,Collision,Team1,2,2356070
-Alfa Romeo 4C Spider,Turbocharged,596,AWD,Racing Slicks,Race1,3.912610574,8,1:30,1:32,0.147516586,5,Collision,Team1,4,2319603
-Aston Martin Vantage,Turbocharged,660,AWD,Racing Slicks,Race1,5.211345323,9,1:30,1:32,0.151744665,2,Collision,Team1,1,2281246
-Bugatti Chiron Pur Sport,Naturally Aspirated,489,RWD,All-Weather,Race2,3.68980658,8,1:45,1:50,0.184654382,3,Time Penalty,Team2,3,1506164
-BMW M4 CSL,Turbocharged,593,AWD,Racing Slicks,Race1,3.317678314,11,1:30,1:32,0.073017183,5,Collision,Team1,2,1534998
-Pagani Huayra,Turbocharged,545,AWD,Racing Slicks,Race1,4.604621716,9,1:30,1:32,0.08255396,2,Collision,Team1,2,1007498
-Mercedes-AMG GT R,Naturally Aspirated,313,RWD,All-Weather,Race2,4.182336169,9,1:45,1:50,0.124252725,5,Time Penalty,Team2,2,1987105
-Lotus Emira,Turbocharged,571,AWD,Racing Slicks,Race1,2.891429869,12,1:30,1:32,0.151833702,6,Collision,Team1,4,2669435
-Dodge Viper ACR,Turbocharged,755,AWD,Racing Slicks,Race1,4.311413233,14,1:30,1:32,0.05317574,3,Collision,Team1,3,1859474
-Nissan GT-R Nismo,Turbocharged,668,AWD,Racing Slicks,Race1,5.256276713,13,1:30,1:32,0.10637445,3,Collision,Team1,3,1142190
-Dodge Viper ACR,Naturally Aspirated,370,RWD,All-Weather,Race2,4.165613231,10,1:45,1:50,0.101717596,2,Time Penalty,Team2,2,1460541
-Lotus Emira,Naturally Aspirated,332,RWD,All-Weather,Race2,4.197026078,9,1:45,1:50,0.131257437,6,Time Penalty,Team2,2,2743794
-Pagani Huayra,Turbocharged,773,AWD,Racing Slicks,Race1,3.575730112,12,1:30,1:32,0.096296989,2,Collision,Team1,4,1673839
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,449,RWD,All-Weather,Race2,5.044464179,8,1:45,1:50,0.11958977,4,Time Penalty,Team2,2,1173558
-Porsche 911 GT3,Naturally Aspirated,587,RWD,All-Weather,Race2,3.877022872,10,1:45,1:50,0.112862228,5,Time Penalty,Team2,3,1582434
-Aston Martin Vantage,Naturally Aspirated,395,RWD,All-Weather,Race2,2.844592217,9,1:45,1:50,0.095332766,2,Time Penalty,Team2,4,2893799
-Porsche 911 GT3,Naturally Aspirated,552,RWD,All-Weather,Race2,3.136970998,12,1:45,1:50,0.051817806,3,Time Penalty,Team2,2,1328272
-McLaren 720S,Turbocharged,590,AWD,Racing Slicks,Race1,3.863274931,11,1:30,1:32,0.125901842,3,Collision,Team1,1,2929389
-Maserati MC20,Turbocharged,625,AWD,Racing Slicks,Race1,2.777503611,11,1:30,1:32,0.078397861,2,Collision,Team1,1,2047398
-Nissan GT-R Nismo,Naturally Aspirated,568,RWD,All-Weather,Race2,4.959793545,11,1:45,1:50,0.129819024,4,Time Penalty,Team2,2,1154879
-Koenigsegg Jesko,Turbocharged,626,AWD,Racing Slicks,Race1,3.016263791,13,1:30,1:32,0.100783606,5,Collision,Team1,4,1965823
-Ferrari 488 Pista,Naturally Aspirated,382,RWD,All-Weather,Race2,4.382303166,8,1:45,1:50,0.133289632,4,Time Penalty,Team2,3,1638993
-BMW M4 CSL,Naturally Aspirated,571,RWD,All-Weather,Race2,3.816472647,8,1:45,1:50,0.06708286,6,Time Penalty,Team2,1,1168309
-Jaguar F-Type R,Turbocharged,546,AWD,Racing Slicks,Race1,3.910655826,13,1:30,1:32,0.06010504,3,Collision,Team1,4,2375016
-Aston Martin Vantage,Naturally Aspirated,568,RWD,All-Weather,Race2,2.865287256,8,1:45,1:50,0.084010081,2,Time Penalty,Team2,3,1309138
-Mercedes-AMG GT R,Turbocharged,649,AWD,Racing Slicks,Race1,3.493485212,14,1:30,1:32,0.094710028,2,Collision,Team1,1,2259062
-Chevrolet Corvette Z06,Turbocharged,715,AWD,Racing Slicks,Race1,4.121203231,11,1:30,1:32,0.065112692,6,Collision,Team1,4,2960473
-Dodge Viper ACR,Naturally Aspirated,376,RWD,All-Weather,Race2,4.279963304,8,1:45,1:50,0.193249081,4,Time Penalty,Team2,4,2750259
-Dodge Viper ACR,Turbocharged,573,AWD,Racing Slicks,Race1,4.6396478,10,1:30,1:32,0.103162568,4,Collision,Team1,1,2027048
-Koenigsegg Jesko,Turbocharged,796,AWD,Racing Slicks,Race1,4.580736847,12,1:30,1:32,0.065826591,4,Collision,Team1,2,2552143
-Lamborghini HuracÃ¡n Evo,Turbocharged,716,AWD,Racing Slicks,Race1,5.309643254,9,1:30,1:32,0.1567408,2,Collision,Team1,3,1719029
-Audi R8 V10 Performance,Naturally Aspirated,484,RWD,All-Weather,Race2,3.342797575,9,1:45,1:50,0.191146262,5,Time Penalty,Team2,3,2993871
-Porsche 911 GT3,Turbocharged,666,AWD,Racing Slicks,Race1,4.386929398,11,1:30,1:32,0.184324202,2,Collision,Team1,4,1545575
-Aston Martin Vantage,Turbocharged,518,AWD,Racing Slicks,Race1,4.224950443,8,1:30,1:32,0.080480957,3,Collision,Team1,4,2034509
-Koenigsegg Jesko,Naturally Aspirated,398,RWD,All-Weather,Race2,4.655983705,10,1:45,1:50,0.143096091,6,Time Penalty,Team2,4,1147376
-Dodge Viper ACR,Naturally Aspirated,514,RWD,All-Weather,Race2,3.705873224,14,1:45,1:50,0.132081379,5,Time Penalty,Team2,4,2279053
-Maserati MC20,Turbocharged,711,AWD,Racing Slicks,Race1,4.083275254,13,1:30,1:32,0.153325157,6,Collision,Team1,2,2087699
-Ford Mustang Shelby GT500,Turbocharged,508,AWD,Racing Slicks,Race1,3.795552647,12,1:30,1:32,0.118935479,5,Collision,Team1,2,1465595
-Chevrolet Corvette Z06,Turbocharged,524,AWD,Racing Slicks,Race1,5.391514431,10,1:30,1:32,0.167123713,2,Collision,Team1,1,2978510
-Dodge Viper ACR,Turbocharged,616,AWD,Racing Slicks,Race1,4.000093213,9,1:30,1:32,0.108542016,3,Collision,Team1,1,1094774
-Porsche 911 GT3,Naturally Aspirated,409,RWD,All-Weather,Race2,2.915622546,10,1:45,1:50,0.088479984,2,Time Penalty,Team2,1,2999978
-Mercedes-AMG GT R,Naturally Aspirated,362,RWD,All-Weather,Race2,3.681363578,14,1:45,1:50,0.198121219,3,Time Penalty,Team2,1,1747435
-Audi R8 V10 Performance,Turbocharged,720,AWD,Racing Slicks,Race1,4.341441548,14,1:30,1:32,0.108645301,3,Collision,Team1,1,2810309
-Audi R8 V10 Performance,Naturally Aspirated,481,RWD,All-Weather,Race2,4.181509547,10,1:45,1:50,0.1573846,6,Time Penalty,Team2,4,2127865
-Alfa Romeo 4C Spider,Naturally Aspirated,328,RWD,All-Weather,Race2,4.888251628,14,1:45,1:50,0.165325787,4,Time Penalty,Team2,1,2439423
-BMW M4 CSL,Naturally Aspirated,549,RWD,All-Weather,Race2,4.953632866,13,1:45,1:50,0.14177764,2,Time Penalty,Team2,2,1528157
-Nissan GT-R Nismo,Turbocharged,636,AWD,Racing Slicks,Race1,3.619271441,13,1:30,1:32,0.131294692,6,Collision,Team1,1,1877538
-Ferrari 488 Pista,Naturally Aspirated,391,RWD,All-Weather,Race2,2.964265233,14,1:45,1:50,0.106991123,2,Time Penalty,Team2,2,1822538
-Chevrolet Corvette Z06,Turbocharged,792,AWD,Racing Slicks,Race1,4.003079435,8,1:30,1:32,0.123882454,3,Collision,Team1,2,2978107
-Bugatti Chiron Pur Sport,Naturally Aspirated,492,RWD,All-Weather,Race2,5.334342368,8,1:45,1:50,0.095319671,6,Time Penalty,Team2,4,2192550
-Chevrolet Corvette Z06,Naturally Aspirated,353,RWD,All-Weather,Race2,2.843043504,9,1:45,1:50,0.163936953,5,Time Penalty,Team2,3,1762471
-Aston Martin Vantage,Naturally Aspirated,451,RWD,All-Weather,Race2,3.24274066,13,1:45,1:50,0.183267141,4,Time Penalty,Team2,1,1304804
-McLaren 720S,Naturally Aspirated,466,RWD,All-Weather,Race2,4.712210515,8,1:45,1:50,0.169342493,5,Time Penalty,Team2,3,2602301
-Jaguar F-Type R,Naturally Aspirated,344,RWD,All-Weather,Race2,3.270679988,13,1:45,1:50,0.121312886,5,Time Penalty,Team2,2,1535345
-Koenigsegg Jesko,Naturally Aspirated,561,RWD,All-Weather,Race2,3.98782993,9,1:45,1:50,0.1257798,6,Time Penalty,Team2,2,2345547
-Chevrolet Corvette Z06,Turbocharged,757,AWD,Racing Slicks,Race1,2.500144193,13,1:30,1:32,0.166197718,4,Collision,Team1,2,1875431
-Mercedes-AMG GT R,Naturally Aspirated,491,RWD,All-Weather,Race2,2.874940918,8,1:45,1:50,0.150404989,3,Time Penalty,Team2,4,1757837
-Koenigsegg Jesko,Naturally Aspirated,369,RWD,All-Weather,Race2,3.308411989,8,1:45,1:50,0.172340161,2,Time Penalty,Team2,3,2066759
-Mercedes-AMG GT R,Turbocharged,778,AWD,Racing Slicks,Race1,4.272476334,11,1:30,1:32,0.171572182,4,Collision,Team1,4,2234569
-Ford Mustang Shelby GT500,Naturally Aspirated,403,RWD,All-Weather,Race2,4.014603209,13,1:45,1:50,0.19412283,6,Time Penalty,Team2,3,1828611
-Aston Martin Vantage,Naturally Aspirated,352,RWD,All-Weather,Race2,3.120723782,13,1:45,1:50,0.054971692,3,Time Penalty,Team2,4,1426512
-Maserati MC20,Naturally Aspirated,408,RWD,All-Weather,Race2,4.664134103,9,1:45,1:50,0.102928975,4,Time Penalty,Team2,1,1294752
-Nissan GT-R Nismo,Turbocharged,659,AWD,Racing Slicks,Race1,3.377584112,14,1:30,1:32,0.073208402,4,Collision,Team1,3,2287422
-Audi R8 V10 Performance,Naturally Aspirated,374,RWD,All-Weather,Race2,4.140012244,13,1:45,1:50,0.133082271,5,Time Penalty,Team2,4,2261426
-Pagani Huayra,Naturally Aspirated,438,RWD,All-Weather,Race2,3.230667848,8,1:45,1:50,0.120983084,4,Time Penalty,Team2,2,1238612
-Bugatti Chiron Pur Sport,Naturally Aspirated,443,RWD,All-Weather,Race2,5.07442527,12,1:45,1:50,0.063138508,3,Time Penalty,Team2,3,2023653
-BMW M4 CSL,Turbocharged,756,AWD,Racing Slicks,Race1,3.265725765,14,1:30,1:32,0.090215236,5,Collision,Team1,1,2163509
-Ferrari 488 Pista,Naturally Aspirated,565,RWD,All-Weather,Race2,4.493860565,11,1:45,1:50,0.08876581,4,Time Penalty,Team2,2,2511756
-Dodge Viper ACR,Turbocharged,595,AWD,Racing Slicks,Race1,2.982260199,11,1:30,1:32,0.116585003,5,Collision,Team1,2,2867614
-Ford Mustang Shelby GT500,Turbocharged,774,AWD,Racing Slicks,Race1,3.005797863,10,1:30,1:32,0.150962116,4,Collision,Team1,3,2383905
-Ferrari 488 Pista,Naturally Aspirated,549,RWD,All-Weather,Race2,3.979098265,13,1:45,1:50,0.141553129,2,Time Penalty,Team2,3,1856358
-Alfa Romeo 4C Spider,Turbocharged,546,AWD,Racing Slicks,Race1,2.732587223,14,1:30,1:32,0.168831951,3,Collision,Team1,2,2785479
-Alfa Romeo 4C Spider,Turbocharged,628,AWD,Racing Slicks,Race1,2.51440986,10,1:30,1:32,0.133944487,4,Collision,Team1,1,2936575
-Mercedes-AMG GT R,Turbocharged,793,AWD,Racing Slicks,Race1,4.359699146,13,1:30,1:32,0.17132829,5,Collision,Team1,3,1043817
-Audi R8 V10 Performance,Naturally Aspirated,366,RWD,All-Weather,Race2,3.171492973,12,1:45,1:50,0.170141817,2,Time Penalty,Team2,3,2442456
-Dodge Viper ACR,Turbocharged,572,AWD,Racing Slicks,Race1,4.497331332,9,1:30,1:32,0.071494184,5,Collision,Team1,1,2783763
-Mercedes-AMG GT R,Turbocharged,588,AWD,Racing Slicks,Race1,2.550303475,8,1:30,1:32,0.052079691,3,Collision,Team1,4,1848503
-Aston Martin Vantage,Naturally Aspirated,504,RWD,All-Weather,Race2,3.245116711,11,1:45,1:50,0.064965678,2,Time Penalty,Team2,1,1457376
-Chevrolet Corvette Z06,Turbocharged,628,AWD,Racing Slicks,Race1,4.388032441,8,1:30,1:32,0.160889763,5,Collision,Team1,3,2025501
-Ferrari 488 Pista,Naturally Aspirated,309,RWD,All-Weather,Race2,2.744111493,11,1:45,1:50,0.063594161,3,Time Penalty,Team2,2,1947142
-Lamborghini HuracÃ¡n Evo,Turbocharged,783,AWD,Racing Slicks,Race1,4.079428533,13,1:30,1:32,0.097121691,5,Collision,Team1,2,2482931
-Alfa Romeo 4C Spider,Naturally Aspirated,497,RWD,All-Weather,Race2,5.180038417,13,1:45,1:50,0.152899485,6,Time Penalty,Team2,2,1614749
-Pagani Huayra,Naturally Aspirated,557,RWD,All-Weather,Race2,2.760528791,8,1:45,1:50,0.171446969,3,Time Penalty,Team2,4,2942548
-Maserati MC20,Turbocharged,599,AWD,Racing Slicks,Race1,4.827317922,13,1:30,1:32,0.139969161,5,Collision,Team1,1,1205016
-BMW M4 CSL,Naturally Aspirated,509,RWD,All-Weather,Race2,4.170479552,8,1:45,1:50,0.109284477,2,Time Penalty,Team2,3,2102894
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,442,RWD,All-Weather,Race2,3.617307436,10,1:45,1:50,0.059699009,6,Time Penalty,Team2,4,2209055
-Toyota Supra GR,Naturally Aspirated,382,RWD,All-Weather,Race2,3.639210256,14,1:45,1:50,0.188352742,4,Time Penalty,Team2,1,2083944
-Jaguar F-Type R,Naturally Aspirated,506,RWD,All-Weather,Race2,5.045884153,13,1:45,1:50,0.160206097,3,Time Penalty,Team2,2,1379054
-Toyota Supra GR,Turbocharged,580,AWD,Racing Slicks,Race1,5.433864831,9,1:30,1:32,0.141216213,3,Collision,Team1,4,2599802
-Jaguar F-Type R,Naturally Aspirated,388,RWD,All-Weather,Race2,2.612725018,10,1:45,1:50,0.103736221,3,Time Penalty,Team2,3,2507570
-Ford Mustang Shelby GT500,Turbocharged,748,AWD,Racing Slicks,Race1,3.51584702,10,1:30,1:32,0.06626873,4,Collision,Team1,1,2210248
-Porsche 911 GT3,Turbocharged,554,AWD,Racing Slicks,Race1,5.387206723,10,1:30,1:32,0.105045432,6,Collision,Team1,2,2189636
-McLaren 720S,Naturally Aspirated,505,RWD,All-Weather,Race2,4.895841668,11,1:45,1:50,0.109481188,5,Time Penalty,Team2,2,1667606
-Maserati MC20,Naturally Aspirated,504,RWD,All-Weather,Race2,4.81019453,9,1:45,1:50,0.069266842,2,Time Penalty,Team2,2,2645365
-Bugatti Chiron Pur Sport,Naturally Aspirated,368,RWD,All-Weather,Race2,5.434159774,10,1:45,1:50,0.148648116,2,Time Penalty,Team2,4,2373276
-Alfa Romeo 4C Spider,Naturally Aspirated,353,RWD,All-Weather,Race2,4.212856163,8,1:45,1:50,0.172005169,3,Time Penalty,Team2,2,2339056
-Ford Mustang Shelby GT500,Naturally Aspirated,313,RWD,All-Weather,Race2,3.888167399,8,1:45,1:50,0.148847187,3,Time Penalty,Team2,4,1713735
-Dodge Viper ACR,Naturally Aspirated,470,RWD,All-Weather,Race2,5.450407831,11,1:45,1:50,0.158396283,6,Time Penalty,Team2,4,2794679
-Audi R8 V10 Performance,Turbocharged,559,AWD,Racing Slicks,Race1,2.604927437,13,1:30,1:32,0.125139889,2,Collision,Team1,2,1867609
-Lamborghini HuracÃ¡n Evo,Naturally Aspirated,579,RWD,All-Weather,Race2,3.144976191,10,1:45,1:50,0.082264048,4,Time Penalty,Team2,2,2693220
-Ferrari 488 Pista,Naturally Aspirated,411,RWD,All-Weather,Race2,2.670542002,11,1:45,1:50,0.073108118,5,Time Penalty,Team2,3,2974685
-Lamborghini HuracÃ¡n Evo,Turbocharged,696,AWD,Racing Slicks,Race1,2.716641946,12,1:30,1:32,0.097386744,5,Collision,Team1,4,2265613
-Koenigsegg Jesko,Naturally Aspirated,358,RWD,All-Weather,Race2,3.67034272,9,1:45,1:50,0.15884765,2,Time Penalty,Team2,3,1953946
-Bugatti Chiron Pur Sport,Turbocharged,737,AWD,Racing Slicks,Race1,5.089285024,11,1:30,1:32,0.053668267,4,Collision,Team1,1,2295331
-Nissan GT-R Nismo,Turbocharged,501,AWD,Racing Slicks,Race1,5.339411055,9,1:30,1:32,0.187210661,4,Collision,Team1,2,1386623
-Toyota Supra GR,Turbocharged,600,AWD,Racing Slicks,Race1,2.95638244,10,1:30,1:32,0.063452374,2,Collision,Team1,2,2817050
-Dodge Viper ACR,Naturally Aspirated,356,RWD,All-Weather,Race2,5.493228727,13,1:45,1:50,0.188371099,2,Time Penalty,Team2,2,1206495
-Ford Mustang Shelby GT500,Naturally Aspirated,593,RWD,All-Weather,Race2,5.169368544,9,1:45,1:50,0.156708065,3,Time Penalty,Team2,2,1575545
-Lotus Emira,Naturally Aspirated,409,RWD,All-Weather,Race2,2.696782375,8,1:45,1:50,0.083771772,6,Time Penalty,Team2,3,1116323
-Nissan GT-R Nismo,Turbocharged,788,AWD,Racing Slicks,Race1,2.887787651,12,1:30,1:32,0.151011953,3,Collision,Team1,4,1250855
-Chevrolet Corvette Z06,Naturally Aspirated,352,RWD,All-Weather,Race2,3.181771521,12,1:45,1:50,0.123912405,2,Time Penalty,Team2,1,1824095
-Porsche 911 GT3,Naturally Aspirated,552,RWD,All-Weather,Race2,4.321297777,8,1:45,1:50,0.166814134,4,Time Penalty,Team2,1,2356824
-McLaren 720S,Naturally Aspirated,487,RWD,All-Weather,Race2,4.704093878,8,1:45,1:50,0.129690191,4,Time Penalty,Team2,2,2026412
-Pagani Huayra,Naturally Aspirated,462,RWD,All-Weather,Race2,3.074742172,11,1:45,1:50,0.121975371,6,Time Penalty,Team2,1,1488510
-Ferrari 488 Pista,Naturally Aspirated,483,RWD,All-Weather,Race2,3.398762822,14,1:45,1:50,0.074429964,4,Time Penalty,Team2,1,1716703
-Nissan GT-R Nismo,Turbocharged,762,AWD,Racing Slicks,Race1,5.03168657,11,1:30,1:32,0.091931171,4,Collision,Team1,1,1627962
-Nissan GT-R Nismo,Naturally Aspirated,365,RWD,All-Weather,Race2,4.193830373,14,1:45,1:50,0.169879776,4,Time Penalty,Team2,1,1797733
-Nissan GT-R Nismo,Naturally Aspirated,597,RWD,All-Weather,Race2,3.52467846,10,1:45,1:50,0.118189104,5,Time Penalty,Team2,2,1966540
-Toyota Supra GR,Naturally Aspirated,458,RWD,All-Weather,Race2,4.205925726,13,1:45,1:50,0.153108223,2,Time Penalty,Team2,2,2120273
-Ferrari 488 Pista,Turbocharged,530,AWD,Racing Slicks,Race1,3.865558928,8,1:30,1:32,0.096202028,4,Collision,Team1,3,1788161
-Dodge Viper ACR,Turbocharged,599,AWD,Racing Slicks,Race1,2.59779413,13,1:30,1:32,0.079609444,6,Collision,Team1,4,1843952
-McLaren 720S,Naturally Aspirated,460,RWD,All-Weather,Race2,3.864767267,13,1:45,1:50,0.169663944,6,Time Penalty,Team2,3,2705250
-Dodge Viper ACR,Turbocharged,578,AWD,Racing Slicks,Race1,3.291412224,8,1:30,1:32,0.148736879,6,Collision,Team1,1,1841819
-Porsche 911 GT3,Turbocharged,536,AWD,Racing Slicks,Race1,5.473286636,9,1:30,1:32,0.11724883,3,Collision,Team1,3,1589429
-Nissan GT-R Nismo,Turbocharged,580,AWD,Racing Slicks,Race1,5.081860878,11,1:30,1:32,0.092890353,3,Collision,Team1,4,1428334
-Dodge Viper ACR,Naturally Aspirated,556,RWD,All-Weather,Race2,3.358524769,14,1:45,1:50,0.051366804,5,Time Penalty,Team2,4,1782823
-Koenigsegg Jesko,Turbocharged,764,AWD,Racing Slicks,Race1,4.734152569,13,1:30,1:32,0.070778355,4,Collision,Team1,2,1727736
-Lotus Emira,Turbocharged,708,AWD,Racing Slicks,Race1,5.273524432,10,1:30,1:32,0.153051338,2,Collision,Team1,2,2012652
-Alfa Romeo 4C Spider,Naturally Aspirated,306,RWD,All-Weather,Race2,4.814466892,14,1:45,1:50,0.134900587,3,Time Penalty,Team2,2,2064387
-Audi R8 V10 Performance,Turbocharged,749,AWD,Racing Slicks,Race1,2.728521442,9,1:30,1:32,0.089487427,2,Collision,Team1,2,1638091
-Lotus Emira,Naturally Aspirated,414,RWD,All-Weather,Race2,3.272546589,14,1:45,1:50,0.185695986,6,Time Penalty,Team2,3,2774171
-Koenigsegg Jesko,Naturally Aspirated,420,RWD,All-Weather,Race2,3.084074594,13,1:45,1:50,0.105350471,2,Time Penalty,Team2,3,2089920
-McLaren 720S,Naturally Aspirated,312,RWD,All-Weather,Race2,3.789995423,12,1:45,1:50,0.199891204,2,Time Penalty,Team2,2,2772596
-Chevrolet Corvette Z06,Naturally Aspirated,526,RWD,All-Weather,Race2,3.549241295,9,1:45,1:50,0.1261498,2,Time Penalty,Team2,4,1392627
+Make and Model,Engine Type,Horsepower,Drivetrain,Tire Type,Event Name,Track Length,Number of Corners,Lap Record for Sports Cars,Fastest Lap Time
+koenigsegg jesko,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+toyota supra gr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+alfa romeo 4c spider,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+dodge viper acr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+ford mustang shelby gt500,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+maserati mc20,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+toyota supra gr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+ford mustang shelby gt500,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+bugatti chiron pur sport,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+bugatti chiron pur sport,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+bmw m4 csl,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+ford mustang shelby gt500,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+lotus emira,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mclaren 720s,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+porsche 911 gt3,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+aston martin vantage,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+audi r8 v10 performance,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+aston martin vantage,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+ferrari 488 pista,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+bmw m4 csl,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+lamborghini huracÃ£Â¡n evo,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+ferrari 488 pista,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+lamborghini huracÃ£Â¡n evo,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+pagani huayra,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+ferrari 488 pista,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+lotus emira,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+chevrolet corvette z06,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+jaguar f-type r,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+audi r8 v10 performance,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+porsche 911 gt3,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+jaguar f-type r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+nissan gt-r nismo,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+audi r8 v10 performance,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+aston martin vantage,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+dodge viper acr,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+audi r8 v10 performance,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+jaguar f-type r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+aston martin vantage,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+aston martin vantage,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+jaguar f-type r,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+ford mustang shelby gt500,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+ford mustang shelby gt500,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+lamborghini huracÃ£Â¡n evo,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+porsche 911 gt3,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+bugatti chiron pur sport,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+aston martin vantage,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+lamborghini huracÃ£Â¡n evo,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+porsche 911 gt3,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+dodge viper acr,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+bugatti chiron pur sport,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+bmw m4 csl,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mclaren 720s,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+ford mustang shelby gt500,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mclaren 720s,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+chevrolet corvette z06,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+chevrolet corvette z06,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+ford mustang shelby gt500,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+nissan gt-r nismo,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+nissan gt-r nismo,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+porsche 911 gt3,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+maserati mc20,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mclaren 720s,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mclaren 720s,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+lotus emira,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+alfa romeo 4c spider,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+lotus emira,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+bmw m4 csl,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+bugatti chiron pur sport,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+aston martin vantage,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+bugatti chiron pur sport,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+porsche 911 gt3,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+nissan gt-r nismo,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mclaren 720s,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mercedes-amg gt r,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+mercedes-amg gt r,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+bmw m4 csl,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+mercedes-amg gt r,turbocharged,540.0,awd,racing slicks,race1,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
+koenigsegg jesko,naturally aspirated,540.0,rwd,all-weather,race2,4.011479931,10.0,105,110
